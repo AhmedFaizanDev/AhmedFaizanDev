@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=AhmedFaizanDev&color=green&style=flat-square)
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
