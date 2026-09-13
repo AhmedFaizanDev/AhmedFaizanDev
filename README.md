@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=AhmedFaizanDev&color=green&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=AhmedFaizanDev&color=green&style=flat-square&abbreviated=true)
 
 <picture>
   <source
